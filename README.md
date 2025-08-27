@@ -31,7 +31,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/fastapi-user-balance.git
+    git clone https://github.com/averageencoreenjoer/fastapi-user-balance.git
     cd fastapi-user-balance
     ```
 
